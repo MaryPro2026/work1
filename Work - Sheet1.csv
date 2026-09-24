@@ -1,0 +1,1239 @@
+Date,Worker_Id,Shift_Id,Shift_Type,Start_Time,End_Time
+Jan 1,14190,15:00-22:30,Night ,15:00,22:30
+Jan 1,14254,Day off,Day Off,,
+Jan 1,14017,9:30-16:30,Middle,09:30,16:30
+Jan 1,14321,Day off,Day Off,,
+Jan 1,14099,OFF,Military,,
+Jan 1,13595,Vacation,Vacation ,,
+Jan 1,12605,Vacation,Vacation ,,
+Jan 1,14027,7:00-15:00,Morning,07:00,15:00
+Jan 1,14293,Day off,Day Off,,
+Jan 1,14291,16:30-22:30,Night ,16:30,22:30
+Jan 2,12627,Day off,Day Off,,
+Jan 2,14190,14:30-22:30,Night ,14:30,22:30
+Jan 2,14254,Day off,Day Off,,
+Jan 2,14017,6:30-14:30,Morning,06:30,14:30
+Jan 2,14321,Day off,Day Off,,
+Jan 2,14099,OFF,Military,,
+Jan 2,13595,Day off,Day Off,,
+Jan 2,12605,Vacation,Vacation ,,
+Jan 2,14027,6:30-14:30,Morning,06:30,14:30
+Jan 2,14293,14:30-22:30,Night ,14:30,22:30
+Jan 2,14291,Vacation,Vacation ,,
+Jan 3,12627,Day off,Day Off,,
+Jan 3,14190,15:00-22:30,Night ,15:00,22:30
+Jan 3,14254,Vacation,Vacation ,,
+Jan 3,14017,Day off,Day Off,,
+Jan 3,14321,15:00-22:30,Night ,15:00,22:30
+Jan 3,14099,Day off,Day Off,,
+Jan 3,13595,7:00-15:00,Morning,07:00,15:00
+Jan 3,12605,Vacation,Vacation ,,
+Jan 3,14027,7:00-15:00,Morning,07:00,15:00
+Jan 3,14293,10:00-18:00,Middle,10:00,18:00
+Jan 3,14291,Vacation,Vacation ,,
+Jan 10,12627,Day off,Day Off,,
+Jan 4,14190,10:00-18:00,Middle,10:00,18:00
+Jan 4,14254,Vacation,Vacation ,,
+Jan 4,14017,Day off,Day Off,,
+Jan 4,14321,15:00-22:30,Night ,15:00,22:30
+Jan 4,14099,Day off,Day Off,,
+Jan 4,13595,15:00-22:30,Night ,15:00,22:30
+Jan 4,12605,Vacation,Vacation ,,
+Jan 4,14027,7:00-15:00,Morning,07:00,15:00
+Jan 4,14293,Day off,Day Off,,
+Jan 4,14291,Day off,Day Off,,
+Jan 11,12627,Day off,Day Off,,
+Jan 5,14190,15:30-22:30,Night ,15:30,22:30
+Jan 5,14254,Day off,Day Off,,
+Jan 5,14017,9:30-15:30,Middle,09:30,15:30
+Jan 5,14321,10:30-17:30,Middle,10:30,17:30
+Jan 5,14099,OFF,Middle,,
+Jan 5,13595,Day off,Day Off,,
+Jan 5,12605,Vacation,Vacation ,,
+Jan 5,14027,16:30-22:30,Night ,16:30,22:30
+Jan 5,14293,6:30-10:30,Morning,06:30,10:30
+Jan 5,14291,Day off,Day Off,,
+Jan 12,12627,Day off,Day Off,,
+Jan 6,14190,14:30-22:30,Night ,14:30,22:30
+Jan 6,14254,Day off,Day Off,,
+Jan 6,14017,6:30-12:30,Morning,06:30,12:30
+Jan 6,14321,12:30-18:30,Middle,12:30,18:30
+Jan 6,14099,OFF,Military,,
+Jan 6,13595,Day off,Day Off,,
+Jan 6,12605,Vacation,Vacation ,,
+Jan 6,14027,16:30-22:30,Night ,16:30,22:30
+Jan 6,14293,9:30-13:30,Middle,09:30,13:30
+Jan 6,14291,Day off,Day Off,,
+Jan 13,12627,Day off,Day Off,,
+Jan 7,14190,Day off,Day Off,,
+Jan 7,14254,6:30-14:30,Morning,06:30,14:30
+Jan 7,14017,14:30-22:30,Night ,14:30,22:30
+Jan 7,14321,14:30-19:30,Middle,14:30,19:30
+Jan 7,14099,OFF,Military,,
+Jan 7,13595,6:30-12:30,Morning,06:30,12:30
+Jan 7,12605,Vacation,Vacation ,,
+Jan 7,14027,Day off,Day Off,,
+Jan 7,14293,9:30-14:00,Middle,09:30,14:00
+Jan 7,14291,17:30-22:30,Night ,17:30,22:30
+Jan 22,12627,Day off,Day Off,,
+Jan 8,14190,15:30-22:30,Night ,15:30,22:30
+Jan 8,14254,6:30-14:30,Morning,06:30,14:30
+Jan 8,14017,9:30-17:30,Middle,09:30,17:30
+Jan 8,14321,Exam,Exam,Exam,
+Jan 8,14099,OFF,Military,,
+Jan 8,13595,14:30-22:30,Night ,14:30,22:30
+Jan 8,12605,Day off,Day Off,,
+Jan 8,14027,Day off,Day Off,,
+Jan 8,14293,17:30-22:30,Night ,17:30,22:30
+Jan 8,14291,14:30-20:30,Middle,14:30,20:30
+Jan 23,12627,Day off,Day Off,,
+Jan 9,14190,14:30-22:30,Night ,14:30,22:30
+Jan 9,14254,9:30-14:30,Middle,09:30,14:30
+Jan 9,14017,Vacation,Vacation ,,
+Jan 9,14321,Day off,Day Off,,
+Jan 9,14099,OFF,Military,,
+Jan 9,13595,15:30-22:30,Night ,15:30,22:30
+Jan 9,12605,Day off,Day Off,,
+Jan 9,14027,6:30-14:30,Morning,06:30,14:30
+Jan 9,14293,16:30-22:30,Night ,16:30,22:30
+Jan 9,14291,14:30-18:30,Middle,14:30,18:30
+Jan 29,12627,Day off,Day Off,,
+Jan 10,14190,9:30-13:30,Middle,09:30,13:30
+Jan 10,14254,12:30-20:30,Middle,12:30,20:30
+Jan 10,14017,Day off,Day Off,,
+Jan 10,14321,Day off,Day Off,,
+Jan 10,14099,Day off,Day Off,,
+Jan 10,13595,14:30-22:30,Night ,14:30,22:30
+Jan 10,12605,7:00-15:00,Morning,07:00,15:00
+Jan 10,14027,7:00-15:00,Morning,07:00,15:00
+Jan 10,14293,Day off,Day Off,,
+Jan 10,14291,17:30-22:30,Night ,17:30,22:30
+Jan 30,12627,Day off,Day Off,,
+Jan 11,14190,Day off,Day Off,,
+Jan 11,14254,17:30-22:20,Night ,17:30,22:20
+Jan 11,14017,Day off,Day Off,,
+Jan 11,14321,11:00-15:00,Middle,11:00,15:00
+Jan 11,14099,Day off,Day Off,,
+Jan 11,13595,15:00-22:30,Night ,15:00,22:30
+Jan 11,12605,7:00-15:00,Morning,07:00,15:00
+Jan 11,14027,7:00-15:00,Morning,07:00,15:00
+Jan 11,14293,Day off,Day Off,,
+Jan 11,14291,15:00-19:00,Middle,15:00,19:00
+Feb 2,12627,Day off,Day Off,,
+Jan 12,14190,14:30-22:30,Night ,14:30,22:30
+Jan 12,14254,Day off,Day Off,,
+Jan 12,14017,Vacation,Vacation ,,
+Jan 12,14321,9:30-15:30,Middle,09:30,15:30
+Jan 12,14099,OFF,Military,,
+Jan 12,13595,Day off,Day Off,,
+Jan 12,12605,6:30-14:30,Morning,06:30,14:30
+Jan 12,14027,6:30-13:30,Morning,06:30,13:30
+Jan 12,14293,18:30-22:30,Night ,18:30,22:30
+Jan 12,14291,14:30-18:30,Middle,14:30,18:30
+Feb 3,12627,Day off,Day Off,,
+Jan 13,14190,14:30-22:30,Night ,14:30,22:30
+Jan 13,14254,Day off,Day Off,,
+Jan 13,14017,Vacation,Vacation ,,
+Jan 13,14321,9:30-15:30,Middle,09:30,15:30
+Jan 13,14099,OFF,Military,,
+Jan 13,13595,Day off,Day Off,,
+Jan 13,12605,6:30-14:30,Morning,06:30,14:30
+Jan 13,14027,6:30-13:30,Morning,06:30,13:30
+Jan 13,14293,18:30-22:30,Night ,18:30,22:30
+Jan 13,14291,14:30-18:30,Middle,14:30,18:30
+Feb 14,12627,Day off,Day Off,,
+Jan 14,14190,9:30-16:30,Middle,09:30,16:30
+Jan 14,14254,11:00-15:00,Middle,11:00,15:00
+Jan 14,14017,Vacation,Vacation ,,
+Jan 14,14321,Day off,Day Off,,
+Jan 14,14099,OFF,Military,,
+Jan 14,13595,6:30-14:30,Morning,06:30,14:30
+Jan 14,12605,14:30-22:30,Night ,14:30,22:30
+Jan 14,14027,Day off,Day Off,,
+Jan 14,14293,18:30-22:30,Night ,18:30,22:30
+Jan 14,14291,14:30-18:30,Middle,14:30,18:30
+Feb 15,12627,Day off,Day Off,,
+Jan 15,14190,6:30-11:30,Morning,06:30,11:30
+Jan 15,14254,11:30-15:30,Middle,11:30,15:30
+Jan 15,14017,Vacation,Vacation ,,
+Jan 15,14321,18:30-22:30,Night ,18:30,22:30
+Jan 15,14099,OFF,Middle,,
+Jan 15,13595,9:30-15:30,Middle,09:30,15:30
+Jan 15,12605,14:30-22:30,Night ,14:30,22:30
+Jan 15,14027,Day off,Day Off,,
+Jan 15,14293,Day off,Day Off,,
+Jan 15,14291,15:30-19:30,Middle,15:30,19:30
+Feb 21,12627,Day off,Day Off,,
+Jan 16,14190,Day off,Day Off,,
+Jan 16,14254,6:30-10:30,Morning,06:30,10:30
+Jan 16,14017,Vacation,Vacation ,,
+Jan 16,14321,10:30-14:30,Middle,10:30,14:30
+Jan 16,14099,OFF,Military,,
+Jan 16,13595,16:30-22:30,Night ,16:30,22:30
+Jan 16,12605,14:30-22:30,Night ,14:30,22:30
+Jan 16,14027,9:30-13:30,Middle,09:30,13:30
+Jan 16,14293,Day off,Day Off,,
+Jan 16,14291,14:30-18:30,Middle,14:30,18:30
+Feb 22,12627,Day off,Day Off,,
+Jan 17,14190,Day off,Day Off,,
+Jan 17,14254,7:00-14:00,Morning,07:00,14:00
+Jan 17,14017,Day off,Day Off,,
+Jan 17,14321,14:30-18:30,Middle,14:30,18:30
+Jan 17,14099,Day off,Day Off,,
+Jan 17,13595,15:00-22:30,Night ,15:00,22:30
+Jan 17,12605,Day off,Day Off,,
+Jan 17,14027,15:00-22:30,Night ,15:00,22:30
+Jan 17,14293,9:30-14:30,Middle,09:30,14:30
+Jan 17,14291,Day off,Day Off,,
+Feb 24,12627,Day off,Day Off,,
+Jan 18,14190,10:00-16:00,Middle,10:00,16:00
+Jan 18,14254,7:00-15:00,Morning,07:00,15:00
+Jan 18,14017,Day off,Day Off,,
+Jan 18,14321,Day off,Day Off,,
+Jan 18,14099,Day off,Day Off,,
+Jan 18,13595,15:00-22:30,Night ,15:00,22:30
+Jan 18,12605,Day off,Day Off,,
+Jan 18,14027,18:00-22:30,Night ,18:00,22:30
+Jan 18,14293,15:00-19:00,Middle,15:00,19:00
+Jan 18,14291,Day off,Day Off,,
+Mar 7,12627,Day off,Day Off,,
+Jan 19,14190,Day off,Day Off,,
+Jan 19,14254,6:30-13:30,Morning,06:30,13:30
+Jan 19,14017,Day off,Day Off,,
+Jan 19,14321,Day off,Day Off,,
+Jan 19,14099,OFF,Military,,
+Jan 19,13595,Day off,Day Off,,
+Jan 19,12605,14:30-22:30,Night ,14:30,22:30
+Jan 19,14027,9:30-15:00,Middle,09:30,15:00
+Jan 19,14293,17:00-22:30,Night ,17:00,22:30
+Jan 19,14291,15:00-19:00,Middle,15:00,19:00
+Mar 12,12627,Day off,Day Off,,
+Jan 20,14190,6:30-14:30,Morning,06:30,14:30
+Jan 20,14254,Day off,Day Off,,
+Jan 20,14017,Day off,Day Off,,
+Jan 20,14321,Exam,Exam,Exam,
+Jan 20,14099,OFF,Military,,
+Jan 20,13595,Day off,Day Off,,
+Jan 20,12605,14:30-22:30,Night ,14:30,22:30
+Jan 20,14027,17:00-22:30,Night ,17:00,22:30
+Jan 20,14293,9:30-13:30,Middle,09:30,13:30
+Jan 20,14291,14:30-18:30,Middle,14:30,18:30
+Mar 13,12627,Day off,Day Off,,
+Jan 21,14190,16:00-22:30,Night ,16:00,22:30
+Jan 21,14254,Day off,Day Off,,
+Jan 21,14017,6:30-10:30,Morning,06:30,10:30
+Jan 21,14321,Day off,Day Off,,
+Jan 21,14099,OFF,Military,,
+Jan 21,13595,6:30-13:30,Morning,06:30,13:30
+Jan 21,12605,9:30-17:30,Middle,09:30,17:30
+Jan 21,14027,10:30-14:30,Middle,10:30,14:30
+Jan 21,14293,Day off,Day Off,,
+Jan 21,14291,Vacation,Vacation ,,
+Mar 19,12627,Day off,Day Off,,
+Jan 22,14190,930-1730,Middle,930,1730
+Jan 22,14254,6:30-10:30,Morning,06:30,10:30
+Jan 22,14017,10:30-17:30,Middle,10:30,17:30
+Jan 22,14321,Exam,Exam,Exam,
+Jan 22,14099,OFF,Military,,
+Jan 22,13595,14:30-22:30,Night ,14:30,22:30
+Jan 22,12605,6:30-14:30,Night ,06:30,14:30
+Jan 22,14027,Exam,Exam,Exam,
+Jan 22,14293,Day off,Day Off,,
+Jan 22,14291,17:30-22:30,Night ,17:30,22:30
+Mar 20,12627,Day off,Day Off,,
+Jan 23,14190,Day off,Day Off,,
+Jan 23,14254,15:30-19:30,Middle,15:30,19:30
+Jan 23,14017,15:30-22:30,Night ,15:30,22:30
+Jan 23,14321,Exam,Exam,Exam,
+Jan 23,14099,OFF,Military,,
+Jan 23,13595,9:30-15:30,Middle,09:30,15:30
+Jan 23,12605,6:30-14:30,Morning,06:30,14:30
+Jan 23,14027,6:30-13:30,Morning,06:30,13:30
+Jan 23,14293,18:30-22:30,Morning,18:30,22:30
+Jan 23,14291,14:30-18:30,Middle,14:30,18:30
+Mar 28,12627,Day off,Day Off,,
+Jan 24,14190,7:00-12:00,Morning,07:00,12:00
+Jan 24,14254,12:00-16:00,Middle,12:00,16:00
+Jan 24,14017,16:00-20:00,Middle,16:00,20:00
+Jan 24,14321,16:30-22:30,Night ,16:30,22:30
+Jan 24,14099,Day off,Day Off,,
+Jan 24,13595,15:00-22:30,Night ,15:00,22:30
+Jan 24,12605,Day off,Day Off,,
+Jan 24,14027,Day off,Day Off,,
+Jan 24,14293,9:30-13:30,Middle,09:30,13:30
+Jan 24,14291,Day off,Day Off,,
+Mar 29,12627,Day off,Day Off,,
+Jan 25,14190,16:00-22:30,Night ,16:00,22:30
+Jan 25,14254,18:30-22:30,Night ,18:30,22:30
+Jan 25,14017,16:00-18:30,Middle,16:00,18:30
+Jan 25,14321,12:00-16:00,Middle,12:00,16:00
+Jan 25,14099,Day off,Day Off,,
+Jan 25,13595,10:00-16:00,Middle,10:00,16:00
+Jan 25,12605,Day off,Day Off,,
+Jan 25,14027,Day off,Day Off,,
+Jan 25,14293,7:00-12:00,Morning,07:00,12:00
+Jan 25,14291,Day off,Day Off,,
+Apr 4,12627,Day off,Day Off,,
+Jan 26,14190,Day off,Day Off,,
+Jan 26,14254,18:30-22:30,Night ,18:30,22:30
+Jan 26,14017,9:30-13:30,Middle,09:30,13:30
+Jan 26,14321,Exam,Exam,Exam,
+Jan 26,14099,OFF,Military,,
+Jan 26,13595,Day off,Day Off,,
+Jan 26,12605,14:30-22:30,Night ,14:30,22:30
+Jan 26,14027,10:30-18:30,Middle,10:30,18:30
+Jan 26,14293,Day off,Day Off,,
+Jan 26,14291,6:30-10:30,Morning,06:30,10:30
+Apr 5,12627,Day off,Day Off,,
+Jan 27,14190,17:30-22:30,Night ,17:30,22:30
+Jan 27,14254,12:30-16:30,Middle,12:30,16:30
+Jan 27,14017,6:30-12:30,Morning,06:30,12:30
+Jan 27,14321,Exam,Exam,Exam,
+Jan 27,14099,OFF,Military,,
+Jan 27,13595,Day off,Day Off,,
+Jan 27,12605,9:30-17:30,Middle,09:30,17:30
+Jan 27,14027,14:30-18:30,Middle,14:30,18:30
+Jan 27,14293,18:30-22:30,Night ,18:30,22:30
+Jan 27,14291,Day off,Day Off,,
+Apr 11,12627,Day off,Day Off,,
+Jan 28,14190,Day off,Day Off,,
+Jan 28,14254,9:30-13:30,Middle,09:30,13:30
+Jan 28,14017,14:30-22:30,Night ,14:30,22:30
+Jan 28,14321,Exam,Exam,Exam,
+Jan 28,14099,OFF,Military,,
+Jan 28,13595,6:30-14:30,Morning,06:30,14:30
+Jan 28,12605,Day off,Day Off,,
+Jan 28,14027,14:30-19:30,Middle,14:30,19:30
+Jan 28,14293,Day off,Day Off,,
+Jan 28,14291,18:30-22:30,Night ,18:30,22:30
+Apr 12,12627,Day off,Day Off,,
+Jan 29,14190,10:30-17:30,Middle,10:30,17:30
+Jan 29,14254,18:30-22:30,Night ,18:30,22:30
+Jan 29,14017,16:30-22:30,Night ,16:30,22:30
+Jan 29,14321,Day off,Day Off,,
+Jan 29,14099,OFF,Military,,
+Jan 29,13595,6:30-14:30,Morning,06:30,14:30
+Jan 29,12605,Day off,Day Off,,
+Jan 29,14027,6:30-10:30,Morning,06:30,10:30
+Jan 29,14293,9:30-13:30,Middle,09:30,13:30
+Jan 29,14291,14:30-18:30,Middle,14:30,18:30
+Apr 13,12627,Day off,Day Off,,
+Jan 30,14190,6:30-13:30,Morning,06:30,13:30
+Jan 30,14254,14:30-18:30,Middle,14:30,18:30
+Jan 30,14017,17:30-22:30,Night ,17:30,22:30
+Jan 30,14321,Day off,Day Off,,
+Jan 30,14099,OFF,Military,,
+Jan 30,13595,6:30-14:30,Morning,06:30,14:30
+Jan 30,12605,9:30-17:30,Middle,09:30,17:30
+Jan 30,14027,18:30-22:30,Night ,18:30,22:30
+Jan 30,14293,14:30-18:30,Middle,14:30,18:30
+Jan 30,14291,Day off,Day Off,,
+Apr 14,12627,Day off,Day Off,,
+Jan 31,14190,7:00-15:00,Morning,07:00,15:00
+Jan 31,14254,Day off,Day Off,,
+Jan 31,14017,Day off,Day Off,,
+Jan 31,14321,16:00-22:30,Night ,16:00,22:30
+Jan 31,14099,Day off,Day Off,,
+Jan 31,13595,15:0-22:30,Night ,15:0,22:30
+Jan 31,12605,7:00-15:00,Morning,07:00,15:00
+Jan 31,14027,Day off,Day Off,,
+Jan 31,14293,13:30-19:00,Middle,13:30,19:00
+Jan 31,14291,9:30-13:30,Middle,09:30,13:30
+Apr 22,12627,Day off,Day Off,,
+Feb 1,14190,7:00-11:00,Morning,07:00,11:00
+Feb 1,14254,Day off,Day Off,,
+Feb 1,14017,Day off,Day Off,,
+Feb 1,14321,11:00-15:00,Middle,11:00,15:00
+Feb 1,14099,Day off,Day Off,,
+Feb 1,13595,15:00-22:30,Night ,15:00,22:30
+Feb 1,12605,14:30-22:30,Night ,14:30,22:30
+Feb 1,14027,Day off,Day Off,,
+Feb 1,14293,14:00-18:00,Middle,14:00,18:00
+Feb 1,14291,10:00-14:00,Middle,10:00,14:00
+Apr 23,12627,Day off,Day Off,,
+Feb 2,14190,6:30-14:30,Morning,06:30,14:30
+Feb 2,14254,6:30-14:30,Morning,06:30,14:30
+Feb 2,14017,7:30-15:30,Morning,07:30,15:30
+Feb 2,14321,Exam,Exam,Exam,
+Feb 2,14099,OFF,Military,,
+Feb 2,13595,9:30-17:30,Middle,09:30,17:30
+Feb 2,12605,14:30-22:30,Night ,14:30,22:30
+Feb 2,14027,Day off,Day Off,,
+Feb 2,14293,Day off,Day Off,,
+Feb 2,14291,17:30-22:30,Night ,17:30,22:30
+Jan 31,12627,12:00-20:00,Inventory,12:00,20:00
+Feb 3,14190,6:30-14:30,Morning,06:30,14:30
+Feb 3,14254,Vacation,Vacation ,,
+Feb 3,14017,10:00-18:00,Middle,10:00,18:00
+Feb 3,14321,Exam,Exam,Exam,
+Feb 3,14099,OFF,Military,,
+Feb 3,13595,6:30-14:30,Morning,06:30,14:30
+Feb 3,12605,14:30-22:30,Night ,14:30,22:30
+Feb 3,14027,14:30-22:30,Night ,14:30,22:30
+Feb 3,14293,9:30-17:30,Middle,09:30,17:30
+Feb 3,14291,Day off,Day Off,,
+Feb 28,12627,11:00-19:00,Inventory,11:00,19:00
+Feb 4,14190,Day off,Day Off,,
+Feb 4,14254,Vacation,Vacation ,,
+Feb 4,14017,14:00-21:00,Middle,14:00,21:00
+Feb 4,14321,Day off,Day Off,,
+Feb 4,14099,OFF,Military,,
+Feb 4,13595,6:30-14:30,Morning,06:30,14:30
+Feb 4,12605,14:30-22:30,Night ,14:30,22:30
+Feb 4,14027,14:30-22:30,Night ,14:30,22:30
+Feb 4,14293,6:30-14:30,Morning,06:30,14:30
+Feb 4,14291,9:30-17:30,Middle,09:30,17:30
+Mar 31,12627,11:00-19:00,Inventory,11:00,19:00
+Feb 5,14190,Day off,Day Off,,
+Feb 5,14254,Vacation,Vacation ,,
+Feb 5,14017,13:00-21:00,Night ,13:00,21:00
+Feb 5,14321,Exam,Exam,Exam,
+Feb 5,14099,OFF,Military,,
+Feb 5,13595,6:30-14:30,Morning,06:30,14:30
+Feb 5,12605,14:30-22:30,Night ,14:30,22:30
+Feb 5,14027,Exam,Exam,Exam,
+Feb 5,14293,6:30-14:30,Morning,06:30,14:30
+Feb 5,14291,16:30-22:30,Night ,16:30,22:30
+Apr 30,12627,11:00-19:00,Inventory,11:00,19:00
+Feb 6,14190,6:20-14:30,Morning,06:20,14:30
+Feb 6,14254,Vacation,Vacation ,,
+Feb 6,14017,9:00-17:00,Middle,09:00,17:00
+Feb 6,14321,Day off,Day Off,,
+Feb 6,14099,OFF,Military,,
+Feb 6,13595,14:30-22:30,Night ,14:30,22:30
+Feb 6,12605,9:30-17:30,Middle,09:30,17:30
+Feb 6,14027,Day off,Day Off,,
+Feb 6,14293,Day off,Day Off,,
+Feb 6,14291,15:00-22:30,Night ,15:00,22:30
+Feb 4,12627,Vacation,Vacation ,,
+Feb 7,14190,15:00-22:30,Night ,15:00,22:30
+Feb 7,14254,Day off,Day Off,,
+Feb 7,14017,Day off,Day Off,,
+Feb 7,14321,16:30-22:30,Night ,16:30,22:30
+Feb 7,14099,Day off,Day Off,,
+Feb 7,13595,Day off,Day Off,,
+Feb 7,12605,Day off,Day Off,,
+Feb 7,14027,7:00-15:00,Morning,07:00,15:00
+Feb 7,14293,14:00-19:00,Middle,14:00,19:00
+Feb 7,14291,10:00-14:00,Middle,10:00,14:00
+Feb 23,12627,Day off,Day Off,,
+Feb 8,14190,15:00-22:30,Night ,15:00,22:30
+Feb 8,14254,Day off,Day Off,,
+Feb 8,14017,Day off,Day Off,,
+Feb 8,14321,15:00-22:30,Night ,15:00,22:30
+Feb 8,14099,Day off,Day Off,,
+Feb 8,13595,Day off,Day Off,,
+Feb 8,12605,Day off,Day Off,,
+Feb 8,14027,7:00-15:00,Morning,07:00,15:00
+Feb 8,14293,10:00-18:00,Middle,10:00,18:00
+Feb 8,14291,Day off,Day Off,,
+Mar 6,12627,Day off,Day Off,,
+Feb 9,14190,14:30-22:30,Night ,14:30,22:30
+Feb 9,14254,Day off,Day Off,,
+Feb 9,14017,9:30-13:30,Middle,09:30,13:30
+Feb 9,14321,Exam,Exam,Exam,
+Feb 9,14099,OFF,Military,,
+Feb 9,13595,6:30-14:30,Morning,06:30,14:30
+Feb 9,12605,Day off,Day Off,,
+Feb 9,14027,Exam,Exam,Exam,
+Feb 9,14293,113:30-18:30,Middle,113:30:00,18:30
+Feb 9,14291,17:30-22:30,Night ,17:30,22:30
+Feb 25,12627,6:30-14:30,Morning,06:30,14:30
+Feb 10,14190,9:30-15:30,Middle,09:30,15:30
+Feb 10,14254,Day off,Day Off,,
+Feb 10,14017,14:30-22:30,Night ,14:30,22:30
+Feb 10,14321,11:00-15:00,Middle,11:00,15:00
+Feb 10,14099,OFF,Military,,
+Feb 10,13595,6:30-14:30,Morning,06:30,14:30
+Feb 10,12605,Day off,Day Off,,
+Feb 10,14027,17:30-22:30,Night ,17:30,22:30
+Feb 10,14293,14:30-18:30,Middle,14:30,18:30
+Feb 10,14291,Day off,Day Off,,
+Feb 26,12627,6:30-14:30,Morning,06:30,14:30
+Feb 11,14190,6:30-13:00,Morning,06:30,13:00
+Feb 11,14254,18:30-22:30,Night ,18:30,22:30
+Feb 11,14017,9:30-15:30,Middle,09:30,15:30
+Feb 11,14321,Exam,Exam,Exam,
+Feb 11,14099,OFF,Military,,
+Feb 11,13595,Day off,Day Off,,
+Feb 11,12605,14:30-22:30,Night ,14:30,22:30
+Feb 11,14027,15:00-19:00,Middle,15:00,19:00
+Feb 11,14293,13:00-17:00,Middle,13:00,17:00
+Feb 11,14291,Day off,Day Off,,
+Feb 27,12627,6:20-14:30,Morning,06:20,14:30
+Feb 12,14190,Day off,Day Off,,
+Feb 12,14254,12:30-18:30,Middle,12:30,18:30
+Feb 12,14017,9:30-17:30,Middle,09:30,17:30
+Feb 12,14321,Day off,Day Off,,
+Feb 12,14099,OFF,Military,,
+Feb 12,13595,Day off,Day Off,,
+Feb 12,12605,14:30-22:30,Night ,14:30,22:30
+Feb 12,14027,Day off,Day Off,,
+Feb 12,14293,6:30-12:30,Morning,06:30,12:30
+Feb 12,14291,18:30-22:30,Night ,18:30,22:30
+Mar 1,12627,7:00-15:00,Morning,07:00,15:00
+Feb 13,14190,Day off,Day Off,,
+Feb 13,14254,retirement,Retirement,retirement,
+Feb 13,14017,Day off,Day Off,,
+Feb 13,14321,17:30-22:30,Night ,17:30,22:30
+Feb 13,14099,OFF,Military,,
+Feb 13,13595,9:30-17:30,Middle,09:30,17:30
+Feb 13,12605,14:30-22:30,Night ,14:30,22:30
+Feb 13,14027,6:30-13:30,Morning,06:30,13:30
+Feb 13,14293,Day off,Day Off,,
+Feb 13,14291,15:30-19:30,Middle,15:30,19:30
+Mar 2,12627,6:30-14:30,Morning,06:30,14:30
+Feb 14,14190,15:00-22:30,Night ,15:00,22:30
+Feb 14,14254,retirement,Retirement,retirement,
+Feb 14,14017,Day off,Day Off,,
+Feb 14,14321,17:30-22:30,Night ,17:30,22:30
+Feb 14,14099,Day off,Day Off,,
+Feb 14,13595,7:00-15:00,Morning,07:00,15:00
+Feb 14,12605,9:30-17:30,Middle,09:30,17:30
+Feb 14,14027,11:00-19:00,Middle,11:00,19:00
+Feb 14,14293,11:00-19:00,Middle,11:00,19:00
+Feb 14,14291,7:00-11:00,Middle,07:00,11:00
+Mar 3,12627,6:30-14:30,Morning,06:30,14:30
+Feb 15,14190,15:00-22:300,Night ,15:00,27:00:00
+Feb 15,14254,retirement,Retirement,retirement,
+Feb 15,14017,9:30-17:30,Middle,09:30,17:30
+Feb 15,14321,Day off,Day Off,,
+Feb 15,14099,Day off,Day Off,,
+Feb 15,13595,7:00-15:00,Morning,07:00,15:00
+Feb 15,12605,7:00-15:00,Morning,07:00,15:00
+Feb 15,14027,Day off,Day Off,,
+Feb 15,14293,Day off,Day Off,,
+Feb 15,14291,16:30-22:30,Night ,16:30,22:30
+Mar 4,12627,6:30-14:30,Morning,06:30,14:30
+Feb 16,14190,14:30-22:30,Night ,14:30,22:30
+Feb 16,14017,9:30-17:30,Middle,09:30,17:30
+Feb 16,14321,16:00-22:30,Night ,16:00,22:30
+Feb 16,14099,OFF,Military,,
+Feb 16,13595,Day off,Day Off,,
+Feb 16,12605,6:30-14:30,Morning,06:30,14:30
+Feb 16,14027,6:30-14:30,Morning,06:30,14:30
+Feb 16,14293,Day off,Day Off,,
+Feb 16,14291,Day off,Day Off,,
+Mar 5,12627,6:30-14:30,Morning,06:30,14:30
+Feb 17,14190,14:30-22:30,Night ,14:30,22:30
+Feb 17,14017,9:30-17:30,Middle,09:30,17:30
+Feb 17,14321,16:00-22:30,Night ,16:00,22:30
+Feb 17,14099,OFF,Military,,
+Feb 17,13595,Day off,Day Off,,
+Feb 17,12605,6:30-14:30,Morning,06:30,14:30
+Feb 17,14027,6:30-14:30,Morning,06:30,14:30
+Feb 17,14293,Day off,Day Off,,
+Feb 17,14291,Day off,Day Off,,
+Mar 8,12627,7:00-15:00,Morning,07:00,15:00
+Feb 18,14190,Day off,Day Off,,
+Feb 18,14017,14:30-22:30,Night ,14:30,22:30
+Feb 18,14321,9:30-13:30,Middle,09:30,13:30
+Feb 18,14099,OFF,Military,,
+Feb 18,13595,6:30-14:30,Morning,06:30,14:30
+Feb 18,12605,Day off,Day Off,,
+Feb 18,14027,6:30-14:30,Morning,06:30,14:30
+Feb 18,14293,17:00-22:30,Night ,17:00,22:30
+Feb 18,14291,14:30-18:30,Middle,14:30,18:30
+Mar 9,12627,6:30-14:30,Morning,06:30,14:30
+Feb 19,14190,14:30-22:30,Night ,14:30,22:30
+Feb 19,14017,Day off,Day Off,,
+Feb 19,14321,9:30-15:00,Middle,09:30,15:00
+Feb 19,14099,OFF,Military,,
+Feb 19,13595,6:30-14:30,Morning,06:30,14:30
+Feb 19,12605,Day off,Day Off,,
+Feb 19,14027,6:30-14:30,Morning,06:30,14:30
+Feb 19,14293,17:30-22:30,Night ,17:30,22:30
+Feb 19,14291,15:00-19:00,Middle,15:00,19:00
+Mar 10,12627,6:30-14:30,Morning,06:30,14:30
+Feb 20,14190,9:30-16:30,Middle,09:30,16:30
+Feb 20,14017,Day off,Day Off,,
+Feb 20,14321,6:30-14:00,Morning,06:30,14:00
+Feb 20,14099,OFF,Military,,
+Feb 20,13595,14:30-22:30,Night ,14:30,22:30
+Feb 20,12605,6:30-14:30,Morning,06:30,14:30
+Feb 20,14027,Day off,Day Off,,
+Feb 20,14293,14:00-20:00,Middle,14:00,20:00
+Feb 20,14291,18:30-22:30,Night ,18:30,22:30
+Mar 11,12627,6:30-14:30,Morning,06:30,14:30
+Feb 21,14190,7:00-14:30,Morning,07:00,14:30
+Feb 21,14017,10:30-18:30,Middle,10:30,18:30
+Feb 21,14321,Day off,Day Off,,
+Feb 21,14099,Day off,Day Off,,
+Feb 21,13595,14:30-22:30,Night ,14:30,22:30
+Feb 21,12605,7:00-15:00,Morning,07:00,15:00
+Feb 21,14027,Day off,Day Off,,
+Feb 21,14293,11:00-19:00,Middle,11:00,19:00
+Feb 21,14291,15:00-22:30,Night ,15:00,22:30
+Mar 14,12627,7:00-15:00,Morning,07:00,15:00
+Feb 22,14190,Day off,Day Off,,
+Feb 22,14017,7:00-15:00,Morning,07:00,15:00
+Feb 22,14321,Day off,Day Off,,
+Feb 22,14099,Day off,Day Off,,
+Feb 22,13595,14:30-22:30,Night ,14:30,22:30
+Feb 22,12605,7:00-15:00,Morning,07:00,15:00
+Feb 22,14027,7:00-15:00,Morning,07:00,15:00
+Feb 22,14293,15:00-22:30,Night ,15:00,22:30
+Feb 22,14291,10:30-18:30,Middle,10:30,18:30
+Mar 15,12627,7:00-15:00,Morning,07:00,15:00
+Feb 23,14190,15:30-22:30,Night ,15:30,22:30
+Feb 23,14017,Day off,Day Off,,
+Feb 23,14321,Day off,Day Off,,
+Feb 23,14099,OFF,Military,,
+Feb 23,13595,9:30-17:30,Middle,09:30,17:30
+Feb 23,12605,6:30-14:30,Morning,06:30,14:30
+Feb 23,14027,6:30-14:30,Morning,06:30,14:30
+Feb 23,14293,18:30-22:30,Night ,18:30,22:30
+Feb 23,14291,14:30-18:30,Middle,14:30,18:30
+Mar 16,12627,6:30-14:30,Morning,06:30,14:30
+Feb 24,14190,14:30-22:30,Night ,14:30,22:30
+Feb 24,14017,Day off,Day Off,,
+Feb 24,14321,Day off,Day Off,,
+Feb 24,14099,OFF,Military,,
+Feb 24,13595,6:30-14:30,Morning,06:30,14:30
+Feb 24,12605,6:30-14:30,Morning,06:30,14:30
+Feb 24,14027,9:30-15:00,Middle,09:30,15:00
+Feb 24,14293,17:30-22:30,Night ,17:30,22:30
+Feb 24,14291,15:00-19:00,Middle,15:00,19:00
+Mar 17,12627,6:30-14:30,Morning,06:30,14:30
+Feb 25,14190,Day off,Day Off,,
+Feb 25,14017,9:30-13:30,Middle,09:30,13:30
+Feb 25,14321,15:30-19:30,Middle,15:30,19:30
+Feb 25,14099,OFF,Military,,
+Feb 25,13595,6:30-14:30,Morning,06:30,14:30
+Feb 25,12605,14:30-22:30,Night ,14:30,22:30
+Feb 25,14027,Day off,Day Off,,
+Feb 25,14293,Day off,Day Off,,
+Feb 25,14291,18:30-22:30,Night ,18:30,22:30
+Mar 18,12627,6:30-14:30,Morning,06:30,14:30
+Feb 26,14190,Day off,Day Off,,
+Feb 26,14017,6:30-14:30,Morning,06:30,14:30
+Feb 26,14321,9:30-13:30,Middle,09:30,13:30
+Feb 26,14099,OFF,Military,,
+Feb 26,13595,Day off,Day Off,,
+Feb 26,12605,14:30-22:20,Night ,14:30,22:20
+Feb 26,14027,Day off,Day Off,,
+Feb 26,14293,17:00-22:30,Night ,17:00,22:30
+Feb 26,14291,14:30-18:30,Middle,14:30,18:30
+Mar 21,12627,7:00-15:00,Morning,07:00,15:00
+Feb 27,14190,6:30-12:30,Morning,06:30,12:30
+Feb 27,14017,12:30:18:30,Middle,12:30:18:30,
+Feb 27,14321,9:30-13:30,Middle,09:30,13:30
+Feb 27,14099,OFF,Military,,
+Feb 27,13595,Day off,Day Off,,
+Feb 27,12605,14:30-22:30,Night ,14:30,22:30
+Feb 27,14027,16:30-22:30,Night ,16:30,22:30
+Feb 27,14293,Day off,Day Off,,
+Feb 27,14291,Day off,Day Off,,
+Mar 22,12627,7:00-15:00,Morning,07:00,15:00
+Feb 28,14190,7:00-14:30,Morning,07:00,14:30
+Feb 28,14017,7:00-15:00,Morning,07:00,15:00
+Feb 28,14321,15:30-22:30,Night ,15:30,22:30
+Feb 28,14099,Day off,Day Off,,
+Feb 28,13595,14:30-22:30,Night ,14:30,22:30
+Feb 28,12605,Day off,Day Off,,
+Feb 28,14027,15:00-20:00,Middle,15:00,20:00
+Feb 28,14293,10:00-15:00,Middle,10:00,15:00
+Feb 28,14291,Day off,Day Off,,
+Mar 23,12627,6;30-14:30,Morning,6;30,14:30
+Mar 1,14190,7:00-12:30,Morning,07:00,12:30
+Mar 1,14017,9:30-14:30,Middle,09:30,14:30
+Mar 1,14321,18:30-22:30,Night ,18:30,22:30
+Mar 1,14099,Day off,Day Off,,
+Mar 1,13595,14:30-22:30,Night ,14:30,22:30
+Mar 1,12605,Day off,Day Off,,
+Mar 1,14027,15:00-19:00,Middle,15:00,19:00
+Mar 1,14293,12:30-16:30,Middle,12:30,16:30
+Mar 1,14291,retirement,Retirement,retirement,
+Mar 24,12627,6:30-14:30,Morning,06:30,14:30
+Mar 2,14190,Day off,Day Off,,
+Mar 2,14017,6:30-14:30,Morning,06:30,14:30
+Mar 2,14321,14:30-22:30,Night ,14:30,22:30
+Mar 2,14099,OFF,Military,,
+Mar 2,13595,Day off,Day Off,,
+Mar 2,12605,14:30-22:30,Night ,14:30,22:30
+Mar 2,14027,Day off,Day Off,,
+Mar 2,14293,Day off,Day Off,,
+Mar 2,14291,retirement,Retirement,retirement,
+Mar 25,12627,6:30-14:30,Morning,06:30,14:30
+Mar 3,14190,Day off,Day Off,,
+Mar 3,14017,Day off,Day Off,,
+Mar 3,14321,9:30-17:30,Middle,09:30,17:30
+Mar 3,14099,OFF,Military,,
+Mar 3,13595,Day off,Day Off,,
+Mar 3,12605,14:30-22:30,Night ,14:30,22:30
+Mar 3,14027,6:30-14:30,Morning,06:30,14:30
+Mar 3,14293,17:30-22:30,Night ,17:30,22:30
+Mar 3,14291,retirement,Retirement,retirement,
+Mar 26,12627,6:30-14:30,Morning,06:30,14:30
+Mar 4,14190,14:30-22:30,Night ,14:30,22:30
+Mar 4,14017,Day off,Day Off,,
+Mar 4,14321,6:30-14:30,Morning,06:30,14:30
+Mar 4,14099,OFF,Military,,
+Mar 4,13595,7:00-15:00,Morning,07:00,15:00
+Mar 4,12605,9:30-17:30,Middle,09:30,17:30
+Mar 4,14027,Day off,Day Off,,
+Mar 4,14293,14:30-22:30,Night ,14:30,22:30
+Mar 4,14291,retirement,Retirement,retirement,
+Mar 27,12627,6:30-14:30,Morning,06:30,14:30
+Mar 5,14190,9:30-17;30,Middle,09:30,17;30
+Mar 5,14017,14:30-22:30,Night ,14:30,22:30
+Mar 5,14321,Day off,Day Off,,
+Mar 5,14099,OFF,Military,,
+Mar 5,13595,14:30-22:30,Night ,14:30,22:30
+Mar 5,12605,9:30-17:30,Middle,09:30,17:30
+Mar 5,14027,6:30-14:30,Morning,06:30,14:30
+Mar 5,14293,17:00-22:30,Night ,17:00,22:30
+Mar 5,14291,retirement,Retirement,retirement,
+Mar 30,12627,6:30-14:30,Morning,06:30,14:30
+Mar 6,14190,6:30-14:30,Morning,06:30,14:30
+Mar 6,14017,14:30-22:30,Night ,14:30,22:30
+Mar 6,14321,9:00-17:00,Middle,09:00,17:00
+Mar 6,14099,OFF,Military,,
+Mar 6,13595,14:30-22:30,Night ,14:30,22:30
+Mar 6,12605,Day off,Day Off,,
+Mar 6,14027,6:30-14:30,Morning,06:30,14:30
+Mar 6,14293,15:00-22:30,Night ,15:00,22:30
+Mar 6,14291,retirement,Retirement,retirement,
+Apr 1,12627,6:30-14:30,Morning,06:30,14:30
+Mar 7,14190,7:00-15:00,Morning,07:00,15:00
+Mar 7,14017,15:00-22:30,Night ,15:00,22:30
+Mar 7,14321,15:00-22:30,Night ,15:00,22:30
+Mar 7,14099,Day off,Day Off,,
+Mar 7,13595,14:30-22:30,Night ,14:30,22:30
+Mar 7,12605,Day off,Day Off,,
+Mar 7,14027,7:00-15:00,Morning,07:00,15:00
+Mar 7,14293,10:00-18:00,Middle,10:00,18:00
+Mar 7,14291,retirement,Retirement,retirement,
+Apr 2,12627,6:30-14:30,Morning,06:30,14:30
+Mar 8,14190,15:00-22:30,Night ,15:00,22:30
+Mar 8,14017,10:30-18:30,Middle,10:30,18:30
+Mar 8,14321,Day off,Day Off,,
+Mar 8,14099,Day off,Day Off,,
+Mar 8,13595,10:00-18:00,Middle,10:00,18:00
+Mar 8,12605,7:00-15:00,Morning,07:00,15:00
+Mar 8,14027,15:00-22:30,Night ,15:00,22:30
+Mar 8,14293,Day off,Day Off,,
+Mar 8,14291,retirement,Retirement,retirement,
+Apr 3,12627,6:30-14:30,Morning,06:30,14:30
+Mar 9,14190,Sick,Sick,Sick,
+Mar 9,14017,6:30-14:30,Morning,06:30,14:30
+Mar 9,14321,Day off,Day Off,,
+Mar 9,14099,OFF,Military,,
+Mar 9,13595,7:00-15:00,Morning,07:00,15:00
+Mar 9,12605,14:30-22:30,Night ,14:30,22:30
+Mar 9,14027,14:30-22:30,Night ,14:30,22:30
+Mar 9,14293,Day off,Day Off,,
+Apr 15,12627,6:30-14:30,Morning,06:30,14:30
+Mar 10,14190,14:30-22:30,Night ,14:30,22:30
+Mar 10,14017,6:30-14:30,Morning,06:30,14:30
+Mar 10,14321,14:30-22:30,Night ,14:30,22:30
+Mar 10,14099,OFF,Military,,
+Mar 10,13595,Day off,Day Off,,
+Mar 10,12605,Day off,Day Off,,
+Mar 10,14027,9:30-17:30,Middle,09:30,17:30
+Mar 10,14293,9:00-17:00,Middle,09:00,17:00
+Apr 16,12627,6:30-14:30,Morning,06:30,14:30
+Mar 11,14190,14:30-22:30,Night ,14:30,22:30
+Mar 11,14017,Day off,Day Off,,
+Mar 11,14321,9:30-17:30,Middle,09:30,17:30
+Mar 11,14099,17:30-22:30,Night ,17:30,22:30
+Mar 11,13595,Day off,Day Off,,
+Mar 11,12605,Day off,Day Off,,
+Mar 11,14027,6:30-14:30,Morning,06:30,14:30
+Mar 11,14293,Day off,Day Off,,
+Apr 17,12627,6:30-14:30,Morning,06:30,14:30
+Mar 12,14190,14:30-22:30,Night ,14:30,22:30
+Mar 12,14017,Day off,Day Off,,
+Mar 12,14321,9:30-17:30,Middle,09:30,17:30
+Mar 12,14099,OFF,Military,,
+Mar 12,13595,9:00-17:00,Middle,09:00,17:00
+Mar 12,12605,6:30-14:30,Morning,06:30,14:30
+Mar 12,14027,6:30-14:30,Morning,06:30,14:30
+Mar 12,14293,17:00-22:30,Night ,17:00,22:30
+Apr 18,12627,7:00-15:00,Morning,07:00,15:00
+Mar 13,14190,Day off,Day Off,,
+Mar 13,14017,14:30-22:30,Night ,14:30,22:30
+Mar 13,14321,9:30-17:30,Middle,09:30,17:30
+Mar 13,14099,OFF,Military,,
+Mar 13,13595,7:00-15:00,Morning,07:00,15:00
+Mar 13,12605,6:30-14:30,Morning,06:30,14:30
+Mar 13,14027,6:30-14:30,Morning,06:30,14:30
+Mar 13,14293,14:30-22:30,Night ,14:30,22:30
+Apr 19,12627,7:00-15:00,Morning,07:00,15:00
+Mar 14,14190,Day off,Day Off,,
+Mar 14,14017,15:00-22:30,Night ,15:00,22:30
+Mar 14,14321,15:00-22:30,Night ,15:00,22:30
+Mar 14,14099,Day off,Day Off,,
+Mar 14,13595,14:30-22:30,Night ,14:30,22:30
+Mar 14,12605,7:00-15:00,Morning,07:00,15:00
+Mar 14,14027,Day off,Day Off,,
+Mar 14,14293,10:00-18:00,Middle,10:00,18:00
+Apr 20,12627,6:30-14:30,Morning,06:30,14:30
+Mar 15,14190,14:30-22:30,Night ,14:30,22:30
+Mar 15,14017,10:00-18:00,Middle,10:00,18:00
+Mar 15,14321,Day off,Day Off,,
+Mar 15,14099,Day off,Day Off,,
+Mar 15,13595,14:30-22:30,Night ,14:30,22:30
+Mar 15,12605,7:00-15:00,Morning,07:00,15:00
+Mar 15,14027,Day off,Day Off,,
+Mar 15,14293,15:00-22:30,Night ,15:00,22:30
+Apr 21,12627,6:30-14:30,Morning,06:30,14:30
+Mar 16,14190,9:30-14:30,Middle,09:30,14:30
+Mar 16,14017,Day off,Day Off,,
+Mar 16,14321,14:30-18:30,Middle,14:30,18:30
+Mar 16,14099,17:30-22:30,Night ,17:30,22:30
+Mar 16,13595,Day off,Day Off,,
+Mar 16,12605,14:30-22:30,Night ,14:30,22:30
+Mar 16,14027,6:30-13:30,Morning,06:30,13:30
+Mar 16,14293,Day off,Day Off,,
+Apr 24,12627,6:30-14:30,Morning,06:30,14:30
+Mar 17,14190,6:30-14:30,Morning,06:30,14:30
+Mar 17,14017,14:30-22:30,Night ,14:30,22:30
+Mar 17,14321,12:00-16:00,Middle,12:00,16:00
+Mar 17,14099,17:00-22:#0,Night ,17:00,22:#0
+Mar 17,13595,Day off,Day Off,,
+Mar 17,12605,9:30-17:30,Middle,09:30,17:30
+Mar 17,14027,7:30-15:30,Morning,07:30,15:30
+Mar 17,14293,Day off,Day Off,,
+Apr 25,12627,7:00-15:00,Morning,07:00,15:00
+Mar 18,14190,Day off,Day Off,,
+Mar 18,14017,14:30-22:30,Night ,14:30,22:30
+Mar 18,14321,Day off,Day Off,,
+Mar 18,14099,Day off,Day Off,,
+Mar 18,13595,7:00-15:00,Morning,07:00,15:00
+Mar 18,12605,10:00-18:00,Middle,10:00,18:00
+Mar 18,14027,6:30-14:30,Morning,06:30,14:30
+Mar 18,14293,17:30-22:30,Night ,17:30,22:30
+Apr 26,12627,7:00-15:00,Morning,07:00,15:00
+Mar 19,14190,Day off,Day Off,,
+Mar 19,14017,14:20-22:30,Night ,14:20,22:30
+Mar 19,14321,9:30-17:30,Middle,09:30,17:30
+Mar 19,14099,Day off,Day Off,,
+Mar 19,13595,9:00-17:00,Middle,09:00,17:00
+Mar 19,12605,6:30-14:30,Morning,06:30,14:30
+Mar 19,14027,6:30-14:30,Morning,06:30,14:30
+Mar 19,14293,16:30-22:30,Night ,16:30,22:30
+Apr 27,12627,6:30-14:30,Morning,06:30,14:30
+Mar 20,14190,14:30-22:30,Night ,14:30,22:30
+Mar 20,14017,Day off,Day Off,,
+Mar 20,14321,9:30-14:30,Middle,09:30,14:30
+Mar 20,14099,17:30-22:30,Night ,17:30,22:30
+Mar 20,13595,14:30-22:30,Night ,14:30,22:30
+Mar 20,12605,6:30-14:30,Morning,06:30,14:30
+Mar 20,14027,6:30-14:30,Morning,06:30,14:30
+Mar 20,14293,14:30-19:00,Middle,14:30,19:00
+Apr 28,12627,6:30-14:30,Morning,06:30,14:30
+Mar 21,14190,15:00-22:30,Night ,15:00,22:30
+Mar 21,14017,14:00-19:00,Middle,14:00,19:00
+Mar 21,14321,16:00-22:30,Night ,16:00,22:30
+Mar 21,14099,10:00-15:00,Middle,10:00,15:00
+Mar 21,13595,14:30-22:30,Night ,14:30,22:30
+Mar 21,12605,Day off,Day Off,,
+Mar 21,14027,Day off,Day Off,,
+Mar 21,14293,7:00-14:00,Morning,07:00,14:00
+Apr 29,12627,6:30-15:00,Morning,06:30,15:00
+Mar 22,14190,15:00-22:30,Night ,15:00,22:30
+Mar 22,14017,10:00-17:00,Middle,10:00,17:00
+Mar 22,14321,Day off,Day Off,,
+Mar 22,14099,7:00-15:00,Morning,07:00,15:00
+Mar 22,13595,14:30-22:30,Night ,14:30,22:30
+Mar 22,12605,Day off,Day Off,,
+Mar 22,14027,Day off,Day Off,,
+Mar 22,14293,15:00-22:30,Night ,15:00,22:30
+Jan 1,12627,7:00-15:00,Morning,07:00,15:00
+Mar 23,14190,Day off,Day Off,,
+Mar 23,14017,16:30-22:30,Night ,16:30,22:30
+Mar 23,14321,Day off,Day Off,,
+Mar 23,14099,18:30-22:30,Night ,18:30,22:30
+Mar 23,13595,9:30-17:30,Middle,09:30,17:30
+Mar 23,12605,6:30-14:30,Morning,06:30,14:30
+Mar 23,14027,14:30-18:30,Middle,14:30,18:30
+Mar 23,14293,Day off,Day Off,,
+Jan 4,12627,7:00-15:00,Morning,07:00,15:00
+Mar 24,14190,Day off,Day Off,,
+Mar 24,14017,9:30-15:30,Middle,09:30,15:30
+Mar 24,14321,14:30-18:30,Middle,14:30,18:30
+Mar 24,14099,17:30-22:30,Night ,17:30,22:30
+Mar 24,13595,6:30-14:30,Morning,06:30,14:30
+Mar 24,12605,14:30-22:30,Night ,14:30,22:30
+Mar 24,14027,Day off,Day Off,,
+Mar 24,14293,Day off,Day Off,,
+Jan 5,12627,6:30-14:30,Morning,06:30,14:30
+Mar 25,14190,14:30-22:30,Night ,14:30,22:30
+Mar 25,14017,6:30-14:30,Morning,06:30,14:30
+Mar 25,14321,16:30-22:30,Night ,16:30,22:30
+Mar 25,14099,Day off,Day Off,,
+Mar 25,13595,7:00-15:00,Morning,07:00,15:00
+Mar 25,12605,Day off,Day Off,,
+Mar 25,14027,Day off,Day Off,,
+Mar 25,14293,9:30-17:30,Middle,09:30,17:30
+Jan 6,12627,6:30-14:30,Morning,06:30,14:30
+Mar 26,14190,14:30-22:30,Night ,14:30,22:30
+Mar 26,14017,6:30-14:30,Morning,06:30,14:30
+Mar 26,14321,9:30-17:30,Middle,09:30,17:30
+Mar 26,14099,Day off,Day Off,,
+Mar 26,13595,7:00-15:00,Morning,07:00,15:00
+Mar 26,12605,Day off,Day Off,,
+Mar 26,14027,vacation,Vacation ,,
+Mar 26,14293,17:00-22:30,Night ,17:00,22:30
+Jan 7,12627,6:30-14:30,Morning,06:30,14:30
+Mar 27,14190,14:30-22:30,Night ,14:30,22:30
+Mar 27,14017,9:30-17:30,Middle,09:30,17:30
+Mar 27,14321,Day off,Day Off,,
+Mar 27,14099,18:30-22:30,Night ,18:30,22:30
+Mar 27,13595,vacation,Vacation ,,
+Mar 27,12605,6:30-14:30,Morning,06:30,14:30
+Mar 27,14027,vacation,Vacation ,,
+Mar 27,14293,14:30-18:30,Middle,14:30,18:30
+Jan 8,12627,6:30-14:30,Morning,06:30,14:30
+Mar 28,14190,15:00-22:30,Night ,15:00,22:30
+Mar 28,14017,Day off,Day Off,,
+Mar 28,14321,15:00-19:00,Middle,15:00,19:00
+Mar 28,14099,10:00-15:00,Middle,10:00,15:00
+Mar 28,13595,Day off,Day Off,,
+Mar 28,12605,7:00-15:00,Morning,07:00,15:00
+Mar 28,14027,7:00-15:00,Morning,07:00,15:00
+Mar 28,14293,17:00-22:30,Night ,17:00,22:30
+Jan 9,12627,6:30-14:30,Morning,06:30,14:30
+Mar 29,14190,15:00-22:30,Night ,15:00,22:30
+Mar 29,14017,Day off,Day Off,,
+Mar 29,14321,15:00-19:00,Middle,15:00,19:00
+Mar 29,14099,10:00-15:00,Middle,10:00,15:00
+Mar 29,13595,Day off,Day Off,,
+Mar 29,12605,7:00-15:00,Morning,07:00,15:00
+Mar 29,14027,7:00-15:00,Morning,07:00,15:00
+Mar 29,14293,17:00-22:30,Night ,17:00,22:30
+Jan 14,12627,6:30-14:30,Morning,06:30,14:30
+Mar 30,14190,9:30-17:30,Middle,09:30,17:30
+Mar 30,14017,Day off,Day Off,,
+Mar 30,14321,14:30-22:30,Night ,14:30,22:30
+Mar 30,14099,Day off,Day Off,,
+Mar 30,13595,vacation,Vacation ,,
+Mar 30,12605,14:30-22:30,Night ,14:30,22:30
+Mar 30,14027,6:30-14:30,Morning,06:30,14:30
+Mar 30,14293,Day off,Day Off,,
+Jan 15,12627,6:30-14:30,Morning,06:30,14:30
+Mar 31,14190,vacation,Vacation ,,
+Mar 31,14017,6:30-14:30,Morning,06:30,14:30
+Mar 31,14321,9:30-17:30,Middle,09:30,17:30
+Mar 31,14099,Day off,Day Off,,
+Mar 31,13595,vacation,Vacation ,,
+Mar 31,12605,14:30-22:30,Night ,14:30,22:30
+Mar 31,14027,6:30-14:30,Morning,06:30,14:30
+Mar 31,14293,14:30-22:30,Night ,14:30,22:30
+Jan 16,12627,6:30-14:30,Morning,06:30,14:30
+Apr 1,14190,vacation,Vacation ,,
+Apr 1,14017,Day off,Day Off,,
+Apr 1,14321,Day off,Day Off,,
+Apr 1,14099,16:30-22:30,Night ,16:30,22:30
+Apr 1,13595,vacation,Vacation ,,
+Apr 1,12605,14:30-22:30,Night ,14:30,22:30
+Apr 1,14027,6:30-14:30,Morning,06:30,14:30
+Apr 1,14293,9:30-17:30,Middle,09:30,17:30
+Jan 17,12627,7:00-15:00,Morning,07:00,15:00
+Apr 2,14190,vacation,Vacation ,,
+Apr 2,14017,14:30-22:30,Night ,14:30,22:30
+Apr 2,14321,9:30-17:30,Middle,09:30,17:30
+Apr 2,14099,16:30-22:30,Night ,16:30,22:30
+Apr 2,13595,vacation,Vacation ,,
+Apr 2,12605,Day off,Day Off,,
+Apr 2,14027,6:30-14:30,Morning,06:30,14:30
+Apr 2,14293,Day off,Day Off,,
+Jan 18,12627,7:00-15:00,Morning,07:00,15:00
+Apr 3,14190,vacation,Vacation ,,
+Apr 3,14017,14:30-22:30,Night ,14:30,22:30
+Apr 3,14321,Day off,Day Off,,
+Apr 3,14099,16:30-22:30,Night ,16:30,22:30
+Apr 3,13595,vacation,Vacation ,,
+Apr 3,12605,Day off,Day Off,,
+Apr 3,14027,6:30-14:30,Morning,06:30,14:30
+Apr 3,14293,9:30-17:30,Middle,09:30,17:30
+Jan 19,12627,6:30-14:30,Morning,06:30,14:30
+Apr 4,14190,Day off,Day Off,,
+Apr 4,14017,15:00-22:30,Night ,15:00,22:30
+Apr 4,14321,15:00-22:30,Night ,15:00,22:30
+Apr 4,14099,10:00-18:00,Middle,10:00,18:00
+Apr 4,13595,Day off,Day Off,,
+Apr 4,12605,7:00-15:00,Morning,07:00,15:00
+Apr 4,14027,Day off,Day Off,,
+Apr 4,14293,7:00-15:00,Morning,07:00,15:00
+Jan 20,12627,6:30-14:30,Morning,06:30,14:30
+Apr 5,14190,Day off,Day Off,,
+Apr 5,14017,15:00-22:30,Night ,15:00,22:30
+Apr 5,14321,15:00-22:30,Night ,15:00,22:30
+Apr 5,14099,10:00-18:00,Middle,10:00,18:00
+Apr 5,13595,Day off,Day Off,,
+Apr 5,12605,7:00-15:00,Morning,07:00,15:00
+Apr 5,14027,Day off,Day Off,,
+Apr 5,14293,7:00-15:00,Morning,07:00,15:00
+Jan 24,12627,7:00-15:00,Morning,07:00,15:00
+Apr 6,14190,Day off,Day Off,,
+Apr 6,14017,14:30-22:30,Night ,14:30,22:30
+Apr 6,14321,14:30-18:30,Middle,14:30,18:30
+Apr 6,14099,Day off,Day Off,,
+Apr 6,13595,6:30-14:30,Morning,06:30,14:30
+Apr 6,12605,6:30-14:30,Morning,06:30,14:30
+Apr 6,14027,9:30-14:30,Middle,09:30,14:30
+Apr 6,14293,17:30-22:30,Night ,17:30,22:30
+Jan 25,12627,7:00-15:00,Morning,07:00,15:00
+Apr 7,14190,Day off,Day Off,,
+Apr 7,14017,14:30-22:30,Night ,14:30,22:30
+Apr 7,14321,14:30-18:30,Middle,14:30,18:30
+Apr 7,14099,Day off,Day Off,,
+Apr 7,13595,6:30-14:30,Morning,06:30,14:30
+Apr 7,12605,6:30-14:30,Morning,06:30,14:30
+Apr 7,14027,9:30-14:30,Middle,09:30,14:30
+Apr 7,14293,17:30-22:30,Night ,17:30,22:30
+Jan 26,12627,6:30-14:30,Morning,06:30,14:30
+Apr 8,14190,14:30-22:30,Night ,14:30,22:30
+Apr 8,14017,13:30-19:30,Middle,13:30,19:30
+Apr 8,14321,Day off,Day Off,,
+Apr 8,14099,17:20-22:30,Night ,17:20,22:30
+Apr 8,13595,6:30-14:30,Morning,06:30,14:30
+Apr 8,12605,6:30-14:30,Morning,06:30,14:30
+Apr 8,14027,Day off,Day Off,,
+Apr 8,14293,9:30-13:30,Middle,09:30,13:30
+Jan 27,12627,6:30-14:30,Morning,06:30,14:30
+Apr 9,14190,14:30-22:30,Night ,14:30,22:30
+Apr 9,14017,9:30-17:30,Middle,09:30,17:30
+Apr 9,14321,Day off,Day Off,,
+Apr 9,14099,16:30-22:30,Night ,16:30,22:30
+Apr 9,13595,Day off,Day Off,,
+Apr 9,12605,6:30-14:30,Morning,06:30,14:30
+Apr 9,14027,Day off,Day Off,,
+Apr 9,14293,6:30-14:30,Morning,06:30,14:30
+Jan 28,12627,6:30-14:30,Morning,06:30,14:30
+Apr 10,14190,13:30-21:30,Night ,13:30,21:30
+Apr 10,14017,6:30-13:30,Morning,06:30,13:30
+Apr 10,14321,9:30-13:30,Middle,09:30,13:30
+Apr 10,14099,17:30-21:30,Night ,17:30,21:30
+Apr 10,13595,Day off,Day Off,,
+Apr 10,12605,vacation,Vacation ,,
+Apr 10,14027,6:30-13:30,Morning,06:30,13:30
+Apr 10,14293,13:30-17:30,Middle,13:30,17:30
+Feb 1,12627,7:00-15:00,Morning,07:00,15:00
+Apr 11,14190,13:30-21:30,Night ,13:30,21:30
+Apr 11,14017,Day off,Day Off,,
+Apr 11,14321,16:00-21:30,Night ,16:00,21:30
+Apr 11,14099,10:00-18:00,Middle,10:00,18:00
+Apr 11,13595,7:00-15:00,Morning,07:00,15:00
+Apr 11,12605,Day off,Day Off,,
+Apr 11,14027,7:00-13:30,Morning,07:00,13:30
+Apr 11,14293,Day off,Day Off,,
+Feb 6,12627,6:30-14:30,Morning,06:30,14:30
+Apr 12,14190,14:30-22:30,Night ,14:30,22:30
+Apr 12,14017,Day off,Day Off,,
+Apr 12,14321,10:30-18:30,Middle,10:30,18:30
+Apr 12,14099,15:00-22:30,Night ,15:00,22:30
+Apr 12,13595,7:00-15:00,Morning,07:00,15:00
+Apr 12,12605,Day off,Day Off,,
+Apr 12,14027,7:00-14:30,Morning,07:00,14:30
+Apr 12,14293,Day off,Day Off,,
+Feb 7,12627,7:00-15:00,Morning,07:00,15:00
+Apr 13,14190,9:30-17:30,Middle,09:30,17:30
+Apr 13,14017,14:30-22:30,Night ,14:30,22:30
+Apr 13,14321,6:30-14:30,Morning,06:30,14:30
+Apr 13,14099,16:30-22:30,Night ,16:30,22:30
+Apr 13,13595,6:30-14:30,Morning,06:30,14:30
+Apr 13,12605,vacation,Vacation ,,
+Apr 13,14027,vacation,Vacation ,,
+Apr 13,14293,Day off,Day Off,,
+Feb 8,12627,7:00-15:00,Morning,07:00,15:00
+Apr 14,14190,9:30-17:30,Middle,09:30,17:30
+Apr 14,14017,14:30-22:30,Night ,14:30,22:30
+Apr 14,14321,6:30-14:30,Morning,06:30,14:30
+Apr 14,14099,16:30-22:30,Middle,16:30,22:30
+Apr 14,13595,6:30-14:30,Morning,06:30,14:30
+Apr 14,12605,vacation,Vacation ,,
+Apr 14,14027,vacation,Vacation ,,
+Apr 14,14293,Day off,Day Off,,
+Feb 9,12627,6:30-14:30,Morning,06:30,14:30
+Apr 15,14190,14:30-22:30,Night ,14:30,22:30
+Apr 15,14017,Day off,Day Off,,
+Apr 15,14321,14:30-22:30,Night ,14:30,22:30
+Apr 15,14099,Day off,Day Off,,
+Apr 15,13595,6:30-14:#0,Morning,06:30,14:#0
+Apr 15,12605,vacation,Vacation ,,
+Apr 15,14027,vacation,Vacation ,,
+Apr 15,14293,9:30-17:30,Middle,09:30,17:30
+Feb 10,12627,6:30-14:30,Morning,06:30,14:30
+Apr 16,14190,9:30-17:30,Middle,09:30,17:30
+Apr 16,14017,14:30-22:30,Night ,14:30,22:30
+Apr 16,14321,14:30-22:30,Night ,14:30,22:30
+Apr 16,14099,Day off,Day Off,,
+Apr 16,13595,Day off,Day Off,,
+Apr 16,12605,vacation,Vacation ,,
+Apr 16,14027,vacation,Vacation ,,
+Apr 16,14293,6:30-14:30,Morning,06:30,14:30
+Feb 11,12627,6:30-14:30,Morning,06:30,14:30
+Apr 17,14190,14:30-22:30,Night ,14:30,22:30
+Apr 17,14017,Day off,Day Off,,
+Apr 17,14321,9:30-17:30,Middle,09:30,17:30
+Apr 17,14099,16:30-22:30,Night ,16:30,22:30
+Apr 17,13595,Day off,Day Off,,
+Apr 17,12605,vacation,Vacation ,,
+Apr 17,14027,vacation,Vacation ,,
+Apr 17,14293,6:30-14:30,Morning,06:30,14:30
+Feb 12,12627,6:30-14:30,Morning,06:30,14:30
+Apr 18,14190,Day off,Day Off,,
+Apr 18,14017,11:00-18:30,Middle,11:00,18:30
+Apr 18,14321,Day off,Day Off,,
+Apr 18,14099,15:00-22:30,Night ,15:00,22:30
+Apr 18,13595,14:30-22:30,Night ,14:30,22:30
+Apr 18,12605,Day off,Day Off,,
+Apr 18,14027,Day off,Day Off,,
+Apr 18,14293,7:00-14:30,Morning,07:00,14:30
+Feb 13,12627,6:30-14:30,Morning,06:30,14:30
+Apr 19,14190,Day off,Day Off,,
+Apr 19,14017,11:00-18:30,Middle,11:00,18:30
+Apr 19,14321,Day off,Day Off,,
+Apr 19,14099,15:00-22:30,Night ,15:00,22:30
+Apr 19,13595,14:30-22:30,Night ,14:30,22:30
+Apr 19,12605,Day off,Day Off,,
+Apr 19,14027,Day off,Day Off,,
+Apr 19,14293,7:00-14:30,Morning,07:00,14:30
+Jan 21,12627,14:30-22:30,Night ,14:30,22:30
+Apr 20,14190,14:30-22:30,Night ,14:30,22:30
+Apr 20,14017,6:30-13:30,Morning,06:30,13:30
+Apr 20,14321,Day off,Day Off,,
+Apr 20,14099,18:30-22:30,Night ,18:30,22:30
+Apr 20,13595,9:30-17:30,Middle,09:30,17:30
+Apr 20,12605,Day off,Day Off,,
+Apr 20,14027,Day off,Day Off,,
+Apr 20,14293,14:30-18:30,Middle,14:30,18:30
+Feb 5,12627,Vacation,Vacation ,,
+Apr 21,14190,9:30-17:30,Middle,09:30,17:30
+Apr 21,14017,16:30-22:30,Night ,16:30,22:30
+Apr 21,14321,14:30-19:30,Middle,14:30,19:30
+Apr 21,14099,Day off,Day Off,,
+Apr 21,13595,6:30-14:30,Morning,06:30,14:30
+Apr 21,12605,Day off,Day Off,,
+Apr 21,14027,Day off,Day Off,,
+Apr 21,14293,18:00-22:30,Night ,18:00,22:30
+Feb 16,12627,Vacation,Vacation ,,
+Apr 22,14190,sick,Sick,sick,
+Apr 22,14017,10:00-18:00,Middle,10:00,18:00
+Apr 22,14321,6:30-10:30,Morning,06:30,10:30
+Apr 22,14099,17:30-22:30,Night ,17:30,22:30
+Apr 22,13595,6:30-14:30,Morning,06:30,14:30
+Apr 22,12605,14:30-22:30,Night ,14:30,22:30
+Apr 22,14027,exams,Exam,exams,
+Apr 22,14293,10:30-17:30,Middle,10:30,17:30
+Feb 17,12627,Vacation,Vacation ,,
+Apr 23,14190,6:30-14:30,Morning,06:30,14:30
+Apr 23,14017,Day off,Day Off,,
+Apr 23,14321,12:30-19:30,Middle,12:30,19:30
+Apr 23,14099,17:30-22:30,Night ,17:30,22:30
+Apr 23,13595,vacation,Vacation ,,
+Apr 23,12605,14:30-22:30,Night ,14:30,22:30
+Apr 23,14027,9:30-15:30,Middle,09:30,15:30
+Apr 23,14293,6:30-12:30,Morning,06:30,12:30
+Feb 18,12627,Vacation,Vacation ,,
+Apr 24,14190,14:30-22:30,Night ,14:30,22:30
+Apr 24,14017,Day off,Day Off,,
+Apr 24,14321,Day off,Day Off,,
+Apr 24,14099,18:30-22:30,Night ,18:30,22:30
+Apr 24,13595,Day off,Day Off,,
+Apr 24,12605,9:30-17:30,Middle,09:30,17:30
+Apr 24,14027,6:30-14:30,Morning,06:30,14:30
+Apr 24,14293,14:30-19:30,Middle,14:30,19:30
+Feb 19,12627,Vacation,Vacation ,,
+Apr 25,14190,Day off,Day Off,,
+Apr 25,14017,15:00-22:30,Night ,15:00,22:30
+Apr 25,14321,15:00-19:00,Middle,15:00,19:00
+Apr 25,14099,10:00-14:30,Middle,10:00,14:30
+Apr 25,13595,Day off,Day Off,,
+Apr 25,12605,7:00-15:00,Morning,07:00,15:00
+Apr 25,14027,17:00-22:30,Night ,17:00,22:30
+Apr 25,14293,Day off,Day Off,,
+Feb 20,12627,Vacation,Vacation ,,
+Apr 26,14190,Day off,Day Off,,
+Apr 26,14017,9:30-15:30,Middle,09:30,15:30
+Apr 26,14321,15:30-19:30,Middle,15:30,19:30
+Apr 26,14099,Day off,Day Off,,
+Apr 26,13595,14:30-22:30,Night ,14:30,22:30
+Apr 26,12605,7:00-15:00,Morning,07:00,15:00
+Apr 26,14027,18:00-22:30,Night ,18:00,22:30
+Apr 26,14293,Day off,Day Off,,
+Apr 6,12627,vacation,Vacation ,,
+Apr 27,14190,Day off,Day Off,,
+Apr 27,14017,15:00-23:00,Night ,15:00,23:00
+Apr 27,14321,6:30-10:30,Morning,06:30,10:30
+Apr 27,14099,18:30-23:00,Night ,18:30,23:00
+Apr 27,13595,Day off,Day Off,,
+Apr 27,12605,9:30-17:30,Middle,09:30,17:30
+Apr 27,14027,10:30-18:30,Middle,10:30,18:30
+Apr 27,14293,vacation,Vacation ,,
+Apr 7,12627,vacation,Vacation ,,
+Apr 28,14190,Day off,Day Off,,
+Apr 28,14017,15:00-23:00,Night ,15:00,23:00
+Apr 28,14321,6:30-14:30,Morning,06:30,14:30
+Apr 28,14099,Day off,Day Off,,
+Apr 28,13595,Day off,Day Off,,
+Apr 28,12605,9:30-17:30,Middle,09:30,17:30
+Apr 28,14027,15:00-23:00,Night ,15:00,23:00
+Apr 28,14293,vacation,Vacation ,,
+Apr 8,12627,vacation,Vacation ,,
+Apr 29,14190,vacation,Vacation ,,
+Apr 29,14017,Day off,Day Off,,
+Apr 29,14321,9:30-17:30,Middle,09:30,17:30
+Apr 29,14099,16:30-23:00,Night ,16:30,23:00
+Apr 29,13595,6:30-14:30,Morning,06:30,14:30
+Apr 29,12605,15:00-23:00,Night ,15:00,23:00
+Apr 29,14027,Day off,Day Off,,
+Apr 29,14293,vacation,Vacation ,,
+Apr 9,12627,vacation,Vacation ,,
+Apr 30,14190,15:00-23:00,Night ,15:00,23:00
+Apr 30,14017,10:00-18:00,Middle,10:00,18:00
+Apr 30,14321,6:30-14:30,Morning,06:30,14:30
+Apr 30,14099,17:00-23:00,Night ,17:00,23:00
+Apr 30,13595,6:30-14:30,Morning,06:30,14:30
+Apr 30,12605,Day off,Day Off,,
+Apr 30,14027,Day off,Day Off,,
+Apr 30,14293,vacation,Vacation ,,
+Apr 10,12627,vacation,Vacation ,,
+May 1,14190,15:00-23:00,Night ,15:00,23:00
+May 1,14017,Day off,Day Off,,
+May 1,14321,9:30-17:30,Middle,09:30,17:30
+May 1,14099,Day off,Day Off,,
+May 1,13595,6:30-14:30,Morning,06:30,14:30
+May 1,12605,Day off,Day Off,,
+May 1,14027,17:00-23:00,Night ,17:00,23:00
+May 1,14293,Vacation,Vacation ,,
+May 1,12627,6:30-15:00,Morning,06:30,15:00
+May 2,14190,10:00-18:00,Middle,10:00,18:00
+May 2,14017,7:00-13:00,Morning,07:00,13:00
+May 2,14321,Day off,Day Off,,
+May 2,14099,18:00-23:00,Night ,18:00,23:00
+May 2,13595,7:00-15:00,Morning,07:00,15:00
+May 2,12605,15:00-23:00,Night ,15:00,23:00
+May 2,14027,13:00-20:00,Middle,13:00,20:00
+May 2,14293,Day off,Day Off,,
+May 2,12627,Day off,Day Off,,
+May 3,14190,7:00-15:00,Morning,07:00,15:00
+May 3,14017,16:00-23:00,Night ,16:00,23:00
+May 3,14321,Day off,Day Off,,
+May 3,14099,18:00-23:00,Night ,18:00,23:00
+May 3,13595,11:00-19:00,Middle,11:00,19:00
+May 3,12605,10:00-18:00,Middle,10:00,18:00
+May 3,14027,7:00-11:00,Morning,07:00,11:00
+May 3,14293,Day off,Day Off,,
+May 3,12627,Day off,Day Off,,
+May 4,14190,,,,
+May 4,14017,,,,
+May 4,14321,,,,
+May 4,14099,,,,
+May 4,13595,,,,
+May 4,12605,,,,
+May 4,14027,,,,
+May 4,14293,,,,
+May 4,12627,,,,
+May 5,14190,,,,
+May 5,14017,,,,
+May 5,14321,,,,
+May 5,14099,,,,
+May 5,13595,,,,
+May 5,12605,,,,
+May 5,14027,,,,
+May 5,14293,,,,
+May 5,12627,,,,
